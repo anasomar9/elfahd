@@ -1,7 +1,7 @@
 // ======================================================
 // WhatsApp business number — change this to update everywhere
 // ======================================================
-const whatsappNumber = "201127069637";
+const whatsappNumber = "20 11 18642860";
 
 // ======================================================
 // Service configuration: fields + icon + WhatsApp copy
